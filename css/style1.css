@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: #6495ED;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    color: #fff;
+}
+
+.intro-text {
+    font-size: 18px;
+    color: #555;
+}
+
+.italic-text {
+    font-style: italic;
+    color: #ff6347;
+    }
